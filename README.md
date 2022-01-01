@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mario-lf
-- 👀 I’m interested in  le python
-- 🌱 I’m currently learning  tkinter
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in by programing
+- 🌱 I’m currently learning python
+<!--- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me ...
 
 <!---
